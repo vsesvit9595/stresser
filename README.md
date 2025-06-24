@@ -35,4 +35,4 @@ cd stresser
 gcc -O3 -march=native -lpthread main.c -o main
 
 # Run stress test (IP PPS DURATION)
-sudo ./main 1.1.1.1 50000 60```
+sudo ./main 1.1.1.1 50000 60
